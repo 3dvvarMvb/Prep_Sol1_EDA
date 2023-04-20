@@ -39,6 +39,7 @@ public class Ejercicio1 {
         int [] Array=new int[]{12, 4, 6, 4, 2, 22, 30, 25};
         int N= Array.length-1;
         Ordenamiento(Array,N);
+        Ordenamiento(Array,N);
         PrintArray(Array,0);
     }
 }
